@@ -9,6 +9,10 @@ public class MyClass {
     public void setId(String id) {
         this.id = id;
     }
+    
+    public void setId(String id) {
+        this.nim = nim;
+    }
 
     public String getName () {
         return name;
